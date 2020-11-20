@@ -9,7 +9,7 @@ QR Code:
 This side project was developed to solve friend's (P'Aoy) purchasing duplicate books.
 
 ## Features
-* Verify similarity the cover of the new book against the existing ones in the library.
+* Verify similarity new book's cover against the existing ones in the library.
 * Add new book to your personal library.
 
 ## Screenshots
@@ -24,7 +24,7 @@ This side project was developed to solve friend's (P'Aoy) purchasing duplicate b
 * [ ] Let user add more info about books.
 * [ ] Let user access to their personal library.
 
-## Overview of Technolofy and API
+## Overview of Technology and APIs
 ![Technolofy and API Services](/images/others/tech.jpg)
 
 ## Set environment configuration
